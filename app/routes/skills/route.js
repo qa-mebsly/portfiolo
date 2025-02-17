@@ -1,1 +1,1 @@
-export { Skills as default, meta, action } from './skills';
+export { Skills as default, meta } from './skills';
